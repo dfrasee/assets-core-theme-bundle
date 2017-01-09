@@ -2,7 +2,11 @@
     "minimum-stability": "dev",
     "name":"dfrasee/assets-core-theme",
     "version": "1.0.0",
-    "autoload": {
-        "psr-4": { "Assets\\Themes\\" : "src/"        }
-    }  
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Payonyx\\Themes" : ""
+        }
+    }
 }
