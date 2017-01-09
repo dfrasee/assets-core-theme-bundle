@@ -1,9 +1,9 @@
 <?php
 
-namespace Assets\FrontendThemeBundle;
+namespace Assets\CoreThemeBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class AssestsFrontendThemeBundle extends Bundle
+class AssestsCoreThemeBundle extends Bundle
 {
 }
