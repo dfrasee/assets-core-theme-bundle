@@ -1,3 +1,0 @@
-common_assets_themes_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: CommonAssetsThemesBundle:Default:index }
